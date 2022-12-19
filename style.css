@@ -19,6 +19,13 @@ dl {
   margin-right: 0;
 
 }
+
+.al{
+	background-color: rgb(208, 204, 204);
+	padding: 30px;
+	
+}
+
 div.al li{
 	padding-left: 2em;
 	padding-top:1em;
@@ -33,7 +40,14 @@ li{
 .context-menu {cursor: pointer;}
 
 .im{
-	margin-top: 170px
+	color:white;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background-color: #00afef;
+
 }
 .footer{
 	--tw-bg-opacity: 1;
@@ -42,5 +56,5 @@ li{
 
 
 .dc{
-	position: :relative;
+	position: relative;
 }
